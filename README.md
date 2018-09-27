@@ -87,3 +87,7 @@ At last,make a web page to interact with the blockchain.You can refer to my inde
 
 
 ![voting](https://user-images.githubusercontent.com/20643833/43989809-b7a5e076-9d6e-11e8-99ac-9d3119bc5053.png)
+
+
+
+Chapter 2- Used truffle framework for smart contract management.Truffle makes our life easy by managing all the smart contract and also gives us the facility to test the smart contract.
